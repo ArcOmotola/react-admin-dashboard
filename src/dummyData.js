@@ -48,3 +48,37 @@ export const userData = [
         "Active User": 2000,
     }, 
 ];
+
+export const userRows = [
+    { id: 1, username: 'Janette Adamu', avatar: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NHw1NlRWcVU4NkJpUXx8ZW58MHx8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        email:"Janette@gmail.com",
+        status: "active",
+        transaction: "$120.00"
+    },
+    { id: 2, username: 'Janette Adamu', avatar: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NHw1NlRWcVU4NkJpUXx8ZW58MHx8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        email:"Janette@gmail.com",
+        status: "active",
+        transaction: "$120.00"
+    },
+    { id: 3, username: 'Janette Adamu', avatar: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NHw1NlRWcVU4NkJpUXx8ZW58MHx8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        email:"Janette@gmail.com",
+        status: "active",
+        transaction: "$120.00"
+    },
+    { id: 4, username: 'Janette Adamu', avatar: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NHw1NlRWcVU4NkJpUXx8ZW58MHx8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        email:"Janette@gmail.com",
+        status: "active",
+        transaction: "$120.00"
+    },
+    { id: 5, username: 'Janette Adamu', avatar: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NHw1NlRWcVU4NkJpUXx8ZW58MHx8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        email:"Janette@gmail.com",
+        status: "active",
+        transaction: "$120.00"
+    },
+    { id: 6, username: 'Janette Adamu', avatar: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NHw1NlRWcVU4NkJpUXx8ZW58MHx8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        email:"Janette@gmail.com",
+        status: "active",
+        transaction: "$120.00"
+    },
+    
+];
