@@ -82,3 +82,38 @@ export const userRows = [
     },
     
 ];
+
+
+export const productRows = [
+    { id: 1, name: 'Iphone 13', img: "https://specifications-pro.com/wp-content/uploads/2020/04/iPhone-12-2.jpg",
+        stock:"123",
+        status: "active",
+        price: "$120.00",
+    },
+    { id: 2, name: 'Iphone 13', img: "https://specifications-pro.com/wp-content/uploads/2020/04/iPhone-12-2.jpg",
+        stock:"123",
+        status: "active",
+        price: "$120.00",
+    },
+    { id: 3, name: 'Iphone 13', img: "https://specifications-pro.com/wp-content/uploads/2020/04/iPhone-12-2.jpg",
+        stock:"123",
+        status: "active",
+        price: "$120.00",
+    },
+    { id: 4, name: 'Iphone 13', img: "https://specifications-pro.com/wp-content/uploads/2020/04/iPhone-12-2.jpg",
+        stock:"123",
+        status: "active",
+        price: "$120.00",
+    },
+    { id: 5, name: 'Iphone 13', img: "https://specifications-pro.com/wp-content/uploads/2020/04/iPhone-12-2.jpg",
+        stock:"123",
+        status: "active",
+        price: "$120.00",
+    },
+    { id: 6, name: 'Iphone 13', img: "https://specifications-pro.com/wp-content/uploads/2020/04/iPhone-12-2.jpg",
+        stock:"123",
+        status: "active",
+        price: "$120.00",
+    },
+    
+];
