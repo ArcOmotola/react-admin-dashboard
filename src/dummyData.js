@@ -49,6 +49,22 @@ export const userData = [
     }, 
 ];
 
+export const productData = [
+    {
+        name: 'Jan',
+        "Sales": 4000,
+    },
+    {
+        name: 'Feb',
+        "Sales": 3000,
+    },
+    {
+        name: 'Mar',
+        "Sales": 5000,
+    },
+];
+
+
 export const userRows = [
     { id: 1, username: 'Janette Adamu', avatar: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NHw1NlRWcVU4NkJpUXx8ZW58MHx8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
         email:"Janette@gmail.com",
